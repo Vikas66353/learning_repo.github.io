@@ -4,9 +4,12 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App"><header className="App-header"><img src={logo} className="App-logo" alt="logo" />{" "}<p>
-          Edit <code>src/App.tsx</code> and ddsacdicsdicnjdcncincjkcnkjdnckj
-          save to reload.
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />{" "}
+        <p>
+          Edit <code>src/App.tsx</code> and ddsacdicsdicnjdcncincj save to
+          reload.
         </p>
         <a
           className="App-link"
